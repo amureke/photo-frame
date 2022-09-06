@@ -1,1 +1,3 @@
-# photo-frame-generator.
+# photo-frame-generator
+
+This is React.js Project
